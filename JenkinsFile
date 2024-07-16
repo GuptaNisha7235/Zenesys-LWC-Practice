@@ -42,7 +42,7 @@ node {
 			}
 			  
             printf rmsg
-            println('Hello from a Job DSL script!')
+            println('Helloff from a Job DSL script!')
             println(rmsg)
         }
     }
